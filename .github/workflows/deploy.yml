@@ -53,4 +53,3 @@ jobs:
           docker pull thanway/nuxt-frontend:latest
           docker compose down
           docker compose up -d
-#daw
